@@ -6,3 +6,5 @@ It will contain Bank, Customer, Account, Transaction Details.
 Mysql database is used as backend.
 <br>
 JPA framework is also used.
+
+Author Name - Pooja 
